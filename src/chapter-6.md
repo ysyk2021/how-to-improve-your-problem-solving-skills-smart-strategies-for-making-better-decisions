@@ -1,5 +1,3 @@
-Chapter 6: Building Problem Solving Skills
-==========================================
 
 Building problem solving skills is essential for personal and professional growth. In this chapter, we will discuss techniques for building problem solving skills and increasing confidence, strategies for practicing problem solving and decision making, and the benefits of building problem solving skills in encouraging personal and professional growth.
 

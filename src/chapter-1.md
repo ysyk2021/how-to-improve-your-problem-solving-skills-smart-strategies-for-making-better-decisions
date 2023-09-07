@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Problem solving and decision making are two essential skills that are closely related. In this chapter, we will define problem solving and its importance in personal and professional life. We will also discuss the connection between problem solving and decision making.
 

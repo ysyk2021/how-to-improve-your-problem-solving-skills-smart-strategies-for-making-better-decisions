@@ -41,3 +41,4 @@
   - [The Benefits of Applying Problem Solving Skills in Everyday Life in Encouraging Personal and Professional Growth](chapter-10-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

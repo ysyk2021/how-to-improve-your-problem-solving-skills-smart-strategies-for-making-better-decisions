@@ -1,4 +1,4 @@
-# Conclusion
+
 
 In this book, we've explored various techniques and strategies for improving problem solving skills and making better decisions. From understanding the problem-solving process to identifying obstacles and developing creative solutions, we've covered a range of topics that can help individuals become more effective problem solvers.
 

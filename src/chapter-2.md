@@ -1,5 +1,3 @@
-Chapter 2: The Problem Solving Process
-======================================
 
 The problem-solving process is a structured approach to solving problems and making decisions. In this chapter, we will explore techniques for defining a problem and gathering information, strategies for generating possible solutions and evaluating alternatives, and the benefits of the problem-solving process in encouraging effective decision making.
 

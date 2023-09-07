@@ -1,5 +1,3 @@
-Chapter 10: Applying Problem Solving Skills in Everyday Life
-============================================================
 
 Problem solving is a critical skill that can help individuals make better decisions in both their personal and professional lives. In this chapter, we'll explore techniques for applying problem solving skills in various contexts, strategies for identifying opportunities to practice problem solving, and the benefits of applying problem solving skills in everyday life.
 

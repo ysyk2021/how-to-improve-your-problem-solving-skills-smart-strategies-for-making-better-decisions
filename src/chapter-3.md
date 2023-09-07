@@ -1,5 +1,3 @@
-Chapter 3: Critical Thinking
-============================
 
 Critical thinking is an essential skill for problem solving and decision making. In this chapter, we will explore techniques for critical thinking and analyzing situations, strategies for identifying assumptions and avoiding biases, and the benefits of critical thinking in improving problem solving and decision making.
 

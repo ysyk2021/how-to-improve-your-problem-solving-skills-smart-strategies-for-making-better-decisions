@@ -1,5 +1,3 @@
-Chapter 5: Decision Making
-==========================
 
 Effective decision making is a critical skill for success in all areas of life. In this chapter, we will discuss techniques for effective decision making and evaluating alternatives, strategies for weighing pros and cons and assessing risks, and the benefits of effective decision making in encouraging success.
 
