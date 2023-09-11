@@ -1,5 +1,4 @@
-Chapter 16: Strategies for Weighing Pros and Cons and Assessing Risks
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into strategies for effectively evaluating options by weighing their pros and cons, as well as assessing the associated risks. These skills are critical for making informed decisions and solving complex problems.
 

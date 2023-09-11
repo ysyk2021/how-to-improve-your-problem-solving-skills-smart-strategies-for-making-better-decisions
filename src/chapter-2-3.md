@@ -1,5 +1,4 @@
-Chapter 12: The Benefits of the Problem-Solving Process in Encouraging Effective Decision Making
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how the problem-solving process serves as a valuable foundation for making sound and effective decisions. Understanding the synergy between problem-solving and decision-making is crucial for achieving better outcomes in various aspects of life.
 

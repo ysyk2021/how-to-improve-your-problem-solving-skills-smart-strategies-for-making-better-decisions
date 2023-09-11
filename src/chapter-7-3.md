@@ -1,5 +1,4 @@
-Chapter 18: The Benefits of Collaborative Problem Solving in Encouraging Success
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's interconnected world, collaboration has emerged as an essential aspect of both personal and professional success. This chapter will explore the manifold benefits of collaborative problem solving and how it fosters success in various endeavors.
 

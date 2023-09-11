@@ -1,5 +1,4 @@
-Chapter 8: Techniques for Applying Problem-Solving Skills in the Workplace and Beyond
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore practical techniques for applying problem-solving skills in various professional and personal contexts. These strategies will empower you to tackle challenges effectively, make better decisions, and achieve your goals.
 

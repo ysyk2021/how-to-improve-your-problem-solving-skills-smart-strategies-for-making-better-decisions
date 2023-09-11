@@ -1,5 +1,4 @@
-Chapter 16: Strategies for Tackling Complex Issues and Navigating Emotions
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore effective strategies for addressing complex issues and navigating the emotional aspects of problem-solving and decision-making. Mastering these techniques will empower you to tackle intricate challenges with clarity and emotional intelligence.
 

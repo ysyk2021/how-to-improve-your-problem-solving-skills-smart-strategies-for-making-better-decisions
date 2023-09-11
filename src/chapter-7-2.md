@@ -1,5 +1,4 @@
-Chapter 17: Strategies for Leveraging Strengths and Building Relationships
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for harnessing your strengths and cultivating meaningful relationships to enhance problem-solving skills and decision-making capabilities. Building on your strengths and fostering positive connections with others are essential components of success in both personal and professional spheres.
 

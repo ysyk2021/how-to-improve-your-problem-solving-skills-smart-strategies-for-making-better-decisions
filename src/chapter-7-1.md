@@ -1,5 +1,4 @@
-Chapter 15: Techniques for Collaborative Problem Solving and Encouraging Teamwork
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques and strategies for fostering collaborative problem solving and promoting teamwork. Effective collaboration enhances problem-solving capabilities and leads to more informed and innovative decision making.
 

@@ -1,5 +1,4 @@
-Chapter 12: Strategies for Analyzing Outcomes and Evaluating Results
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore essential strategies for systematically analyzing the outcomes of your problem-solving efforts and evaluating the results of your decisions. Effective analysis and evaluation are key to continuous improvement and making better decisions in the future.
 

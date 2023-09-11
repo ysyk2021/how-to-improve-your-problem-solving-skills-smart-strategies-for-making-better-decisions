@@ -1,5 +1,4 @@
-Chapter 11: Techniques for Defining a Problem and Gathering Information
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into essential techniques for effectively defining a problem and gathering the necessary information to make informed decisions. A clear problem definition and thorough information gathering are foundational steps in the problem-solving process.
 

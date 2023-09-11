@@ -1,5 +1,4 @@
-Chapter 13: Strategies for Generating Possible Solutions and Evaluating Alternatives
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for the crucial stages of problem solving: generating potential solutions and evaluating those alternatives. These phases are where creativity and critical thinking come together to pave the way for effective decision making.
 

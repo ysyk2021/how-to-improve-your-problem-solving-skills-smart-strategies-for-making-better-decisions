@@ -1,5 +1,4 @@
-Chapter 8: Techniques for Building Problem-Solving Skills and Increasing Confidence
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into specific techniques and practices that can help you not only improve your problem-solving skills but also boost your confidence in your ability to tackle complex challenges effectively.
 

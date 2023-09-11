@@ -1,5 +1,4 @@
-Chapter 6: Techniques for Creative Problem Solving and Generating Innovative Solutions
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creativity is a powerful tool for problem solving, and in this chapter, we will explore various techniques to enhance your creative problem-solving abilities. These strategies will help you think outside the box and generate innovative solutions to the challenges you encounter.
 

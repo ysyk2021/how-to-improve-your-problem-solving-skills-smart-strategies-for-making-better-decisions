@@ -1,5 +1,4 @@
-Chapter 10: Techniques for Continuous Improvement and Learning from Mistakes
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques for fostering a mindset of continuous improvement and leveraging mistakes as valuable learning opportunities. Embracing these strategies will empower you to enhance your problem-solving skills and decision-making abilities over time.
 

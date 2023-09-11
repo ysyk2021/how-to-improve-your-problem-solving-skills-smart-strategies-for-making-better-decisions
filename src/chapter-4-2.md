@@ -1,5 +1,4 @@
-Chapter 10: Strategies for Encouraging Brainstorming and Thinking Outside the Box
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore effective strategies to stimulate brainstorming sessions and foster creative thinking. Encouraging individuals and teams to think outside the box is essential for innovative problem solving.
 

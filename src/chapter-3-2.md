@@ -1,5 +1,4 @@
-Chapter 4: Strategies for Identifying Assumptions and Avoiding Biases
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into essential strategies for recognizing and challenging assumptions while also mitigating biases. These cognitive skills are crucial in the pursuit of improved problem-solving abilities and making more informed decisions.
 

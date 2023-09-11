@@ -1,5 +1,4 @@
-Chapter 6: Techniques for Critical Thinking and Analyzing Situations
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a range of techniques that can sharpen your critical thinking skills and enhance your ability to analyze complex situations. These strategies are invaluable tools for improving problem-solving and decision-making capabilities.
 

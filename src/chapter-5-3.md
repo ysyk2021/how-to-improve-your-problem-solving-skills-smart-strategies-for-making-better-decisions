@@ -1,5 +1,4 @@
-Chapter 14: The Benefits of Effective Decision Making in Encouraging Success
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the profound impact of effective decision making on achieving success in various aspects of life. The ability to make sound decisions is a crucial skill that can significantly influence personal, professional, and organizational outcomes.
 

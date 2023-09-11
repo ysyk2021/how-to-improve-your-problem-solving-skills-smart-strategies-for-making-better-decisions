@@ -1,5 +1,4 @@
-Chapter 5: Strategies for Practicing Problem Solving and Decision Making
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Improving problem-solving skills and enhancing decision-making abilities require deliberate practice and refinement. In this chapter, we'll explore effective strategies and exercises that can help you hone your problem-solving and decision-making skills, enabling you to make better choices in various aspects of life.
 

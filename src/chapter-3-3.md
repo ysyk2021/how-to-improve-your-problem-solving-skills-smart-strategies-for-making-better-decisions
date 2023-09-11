@@ -1,5 +1,4 @@
-Chapter 2: The Benefits of Critical Thinking in Improving Problem Solving and Decision Making
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant advantages of honing your critical thinking skills to enhance problem-solving abilities and decision-making processes. Critical thinking is a fundamental cognitive skill that involves analyzing, evaluating, and synthesizing information to make well-informed choices. Understanding the benefits of critical thinking can empower individuals to tackle challenges more effectively and make better decisions in various aspects of their lives.
 
